@@ -18,7 +18,7 @@ namespace JourneaseTechTest.AppCode
 
         public BingMapsProvider()
         {
-            key = " AsL49zUPu_pK3NUxNaca4SJIUmatanBn4MqHjv_FyACoSmjFuP9VhRDziTq8TrB8";
+            key = "temp";
         }
 
         public bool postCodeExists(string postcode)
